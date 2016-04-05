@@ -1,2 +1,3 @@
 # STA-663-IndianBuffet
-Drew and Sunith's attempt at the Indian Buffet Process
+Indian Buffet Process
+Group Members: Drew Jordan & Sunith Suresh
